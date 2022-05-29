@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    justify-content: center;
+    background: #2980B9;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+}
+
+.button-style {
+    width: 175px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    background-color: #2980B9;
+}
+
+.weather-card {
+    background-color: lightblue;
+    margin: 5px;
+}
