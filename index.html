@@ -29,10 +29,17 @@
               <input id="search-input" type="text" placeholder="Enter City Name"><br>
               <button class="button-style">Search</button>
             </form>
+            <h5 class="ml-4" id="searches">Previous Searches:</h5>
+            <div class="ml-4">
+              <button class="history-button" id="search0" onclick = "histBtn(this.id)"></button>
+              <button class="history-button" id="search1" onclick = "histBtn(this.id)"></button>
+              <button class="history-button" id="search2" onclick = "histBtn(this.id)"></button>
+              <button class="history-button" id="search3" onclick = "histBtn(this.id)"></button>
+              <button class="history-button" id="search4" onclick = "histBtn(this.id)"></button>
+              <button class="history-button" id="search5" onclick = "histBtn(this.id)"></button>
+            </div>
           </section>
-          <section>
-            <!-- append local storage searches here -->
-          </section>
+          <button class="clear-button ml-4" onclick="clearStorage()">Clear</button>
         </div>
         <div class="col-sm-9 ">
           <section id="current-weather" class="border border-secondary pl-3">
