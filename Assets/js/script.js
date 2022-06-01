@@ -178,6 +178,7 @@ function clearStorage() {
     window.location.reload();
 }
 
+// start
 searchFormEl.addEventListener('submit', handleSearchFormSubmit);
 
 
