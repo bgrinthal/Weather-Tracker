@@ -9,7 +9,7 @@ var uviInfo = document.querySelector('#uvi-info');
 var recentSearch = document.querySelector('#searches');
 var searchInput = document.querySelector('#search-input')
 
-
+ 
 var searchHistory = [];
 
 var APIkey = "91d57b7fd6726c36fc275a86a5361130";
