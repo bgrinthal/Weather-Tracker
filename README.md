@@ -127,8 +127,6 @@ Project Link: [https://github.com/bgrinthal/Weather-Tracker](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Google Fonts](https://fonts.google.com/)
 * [Font Awesome](https://fontawesome.com)
 
