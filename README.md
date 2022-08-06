@@ -36,7 +36,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="1436" alt="Screen Shot 2022-05-26 at 9 37 35 AM" src="https://user-images.githubusercontent.com/105067005/171315289-ef92fdfb-3dd5-4d09-a145-b33b0e6e13ab.png">
+
+<img width="1440" alt="Screen Shot 2022-08-06 at 5 38 41 PM" src="https://user-images.githubusercontent.com/105067005/183266858-5841711a-4cf2-4742-9f6b-f0aa1ce5a571.png">
 
 Browser run weather application that features dynamically updated CSS, HTML, and Javascript.  This application takes user input of any city and displays the local weather for today, including the temperature, wind, humidity, and UV index as well as an icon to visually represent the conditions.  Your search history will be saved and displayed as “previous searches” for easier navigation between recently searched cities. 
 
