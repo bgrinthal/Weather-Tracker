@@ -64,16 +64,12 @@ NA
 
 ## Installation
 
-1. Get a free API Key at [https://example.com]([https://example.com](https://openweathermap.org/api))
+1. Get a free API Key at [[https://example.com]([https://example.com](https://openweathermap.org/api))](https://openweathermap.org/api)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/bgrinthal/Weather.Tracker.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+3. Enter your API in `script.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    
